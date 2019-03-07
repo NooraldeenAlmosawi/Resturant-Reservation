@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">تطبيق حجز المطاعم</string>
+    <string name="action_settings">حول التطبيق</string>
+    <string-array name="resturants_array">
+        <item>صاج الريف</item>
+        <item>صمد</item>
+        <item>توست</item>
+        <item>شميساني</item>
+        <item>ويست برغر</item>
+        <item>ورق النعناع</item>
+        <item>بارلي</item>
+    </string-array>
+</resources>
